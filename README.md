@@ -1,3 +1,4 @@
+
 frontend-nanodegree-arcade-game
 ===============================
 
@@ -8,10 +9,12 @@ The objective of the game is to move the character to the other side of the fiel
 ## How to run
 Just open index.html in your favorite browser.
 
-### How to play
+## How to play
 Dodge the insects, get on the other side and raise your score
 
 * **Up arrow** moves the player up.
 * **Down arrow** moves the player down.
 * **Left arrow** moves the player left.
 * **Right arrow** moves the player right.
+
+[Play the game](https://lucaswildemberg.github.io/frontend-nanodegree-arcade-game/)
